@@ -13,4 +13,4 @@ He is also a bit lazy and drinks whiskey.
 
 > brummel
 
-![mage of Lord Brummel](brummel.png)
+<img src="brummel.png">
