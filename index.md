@@ -13,3 +13,4 @@ He is also a bit lazy and drinks whiskey.
 
 > brummel
 
+<img src="brummel.png">
